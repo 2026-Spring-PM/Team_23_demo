@@ -1,0 +1,514 @@
+{
+    "activeFile": "shop.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "exportAsImage.drawTileGrid": true,
+    "fileStates": {
+        "14_Basement_16x16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "17_Garden_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "1_Generic_16x16.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "1_Terrains_16x16.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "1_Terrains_16x16_autumn.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "1_Terrains_16x16_winter.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "2_Fences_16x16.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "2_LivingRoom_16x16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "3_Props_and_Buildings_16x16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "4_Bedroom_16x16.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "7_Pickup_Items_16x16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Cow_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Cow_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Godot_Autotiles_16x16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "Icons_16x16.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Icons_16x16_Crops_Blueberry.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Icons_16x16_Crops_Eggplant.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Icons_24x24.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Icons_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "KakaoTalk_20260529_163459373.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Modern_UI_Style_1.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Modern_UI_Style_1_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Pig_Pink_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Pig_Pink_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Premade_Character_08.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Room_Builder_3d_walls_16x16.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "Room_Builder_Floor_Paths_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Room_Builder_Floors_16x16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "Room_Builder_Walls_16x16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Rooster_Golden_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Rooster_Golden_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Sheep_White_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Sheep_White_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Singles_Icons_32x32_Crops_ eggplant.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "barn-1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "barn.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "barn_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "charact_setting.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 362.75,
+                "y": 323.25
+            }
+        },
+        "complete_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "coocker.tmx": {
+            "scale": 1.554140625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.7908812144976,
+                "y": 239.6823003066405
+            }
+        },
+        "cooker.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 727.3333333333333,
+                "y": 274.33333333333326
+            }
+        },
+        "crops.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "full_map.tmx": {
+            "expandedGroupLayers": [
+                136,
+                134,
+                45,
+                31,
+                135,
+                171,
+                142,
+                3,
+                33,
+                145,
+                2
+            ],
+            "expandedObjectLayers": [
+                169
+            ],
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 911.6666666666666,
+                "y": 533
+            }
+        },
+        "greenhouse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "greenhouse32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "inside_barn.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 135.75,
+                "y": 135.75
+            }
+        },
+        "inven_help.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "inven_help2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "inventory...tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "inventory2.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "inventory4.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "inventory_help.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "inventory_help2.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "invetory3...tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "main_title_resize.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "palette_interiors.tsx": {
+            "scaleInDock": 8,
+            "scaleInEditor": 1
+        },
+        "player_house.tmx": {
+            "expandedObjectLayers": [
+                12
+            ],
+            "scale": 2,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 112.75,
+                "y": -14.25
+            }
+        },
+        "prop.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "real_title.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "rice_icon-resize32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rice_icon.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "rice_icon_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rice_wheat.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "shop.tmx": {
+            "scale": 2,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 321.25,
+                "y": 101.25
+            }
+        },
+        "sleep_q.tmx": {
+            "scale": 2,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 154.25,
+                "y": 137.25
+            }
+        },
+        "startscreen.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 304.5,
+                "y": 177.5
+            }
+        },
+        "title1.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "title2.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ui_exit.tmx": {
+            "scale": 4,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 229,
+                "y": 220.125
+            }
+        },
+        "ui_fullscreen.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 560,
+                "y": 199.66666666666666
+            }
+        },
+        "ui_inventory.tmx": {
+            "scale": 2,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 229,
+                "y": 217.25
+            }
+        },
+        "ui_map.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 229,
+                "y": 220.16666666666669
+            }
+        },
+        "ui_settings.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 229.33333333333331,
+                "y": 324.33333333333337
+            }
+        },
+        "ui_skills.tmx": {
+            "scale": 2,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 229,
+                "y": 220.25
+            }
+        },
+        "winter_tree1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "winter_tree2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/owner/Desktop/PM_2026/Project/map_design",
+    "last.imagePath": "C:/Users/owner/Desktop/PM_2026/Project/image_source",
+    "last.worldFilePath": "C:/Users/owner/Desktop/PM_2026/Project/map_design",
+    "loadedWorlds": [
+        "C:/Users/owner/Desktop/PM_2026/Project/map_design/player_house.world",
+        "C:/Users/owner/Desktop/PM_2026/Project/map_design/player_house.world"
+    ],
+    "map.fixedSize": true,
+    "map.height": 30,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "full_map.tmx",
+        "complete_tileset.tsx",
+        "trees.tsx",
+        "crops.tsx",
+        "1_Terrains_16x16.tsx",
+        "2_Fences_16x16.tsx",
+        "3_Props_and_Buildings_16x16.tsx",
+        "7_Pickup_Items_16x16.tsx",
+        "player_house.tmx",
+        "Room_Builder_3d_walls_16x16.tsx",
+        "Room_Builder_Floor_Paths_16x16.tsx",
+        "Room_Builder_Floors_16x16.tsx",
+        "Room_Builder_Walls_16x16.tsx",
+        "14_Basement_16x16.tsx",
+        "4_Bedroom_16x16.tsx",
+        "1_Generic_16x16.tsx",
+        "2_LivingRoom_16x16.tsx",
+        "palette_interiors.tsx",
+        "Premade_Character_08.tsx",
+        "Godot_Autotiles_16x16.tsx",
+        "17_Garden_16x16.tsx",
+        "inside_barn.tmx",
+        "prop.tsx",
+        "winter_tree2.tsx",
+        "winter_tree1.tsx",
+        "1_Terrains_16x16_autumn.tsx",
+        "1_Terrains_16x16_winter.tsx",
+        "ui_fullscreen.tmx",
+        "Modern_UI_Style_1.tsx",
+        "Modern_UI_Style_1_32x32.tsx",
+        "ui_inventory.tmx",
+        "inventory...tsx",
+        "inventory2.tsx",
+        "invetory3...tsx",
+        "inventory4.tsx",
+        "rice_icon.tsx",
+        "rice_wheat.tsx",
+        "startscreen.tmx",
+        "KakaoTalk_20260529_163459373.tsx",
+        "title1.tsx",
+        "title2.tsx",
+        "main_title_resize.tsx",
+        "real_title.tsx",
+        "Icons_32x32.tsx",
+        "shop.tmx",
+        "charact_setting.tmx",
+        "sleep_q.tmx",
+        "inven_help.tsx",
+        "inven_help2.tsx",
+        "inventory_help.tsx",
+        "inventory_help2.tsx",
+        "ui_skills.tmx",
+        "ui_map.tmx",
+        "ui_settings.tmx",
+        "ui_exit.tmx",
+        "Icons_16x16.tsx",
+        "Icons_24x24.tsx",
+        "Icons_16x16_Crops_Blueberry.tsx",
+        "Icons_16x16_Crops_Eggplant.tsx",
+        "barn.tsx",
+        "barn-1.tsx",
+        "greenhouse.tsx",
+        "Sheep_White_16x16.tsx",
+        "Cow_16x16.tsx",
+        "Rooster_Golden_16x16.tsx",
+        "Pig_Pink_16x16.tsx",
+        "Singles_Icons_32x32_Crops_ eggplant.tsx",
+        "rice_icon-resize32x32.tsx",
+        "Rooster_Golden_32x32.tsx",
+        "Cow_32x32.tsx",
+        "Pig_Pink_32x32.tsx",
+        "Sheep_White_32x32.tsx",
+        "greenhouse32x32.tsx",
+        "barn_32x32.tsx",
+        "rice_icon_32x32.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "full_map.tmx",
+        "complete_tileset.tsx",
+        "trees.tsx",
+        "crops.tsx",
+        "1_Terrains_16x16.tsx",
+        "2_Fences_16x16.tsx",
+        "3_Props_and_Buildings_16x16.tsx",
+        "7_Pickup_Items_16x16.tsx",
+        "player_house.tmx",
+        "Room_Builder_3d_walls_16x16.tsx",
+        "Room_Builder_Floor_Paths_16x16.tsx",
+        "Room_Builder_Floors_16x16.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
